@@ -10,7 +10,7 @@ Migración del sitio de Caffè Nina (HTML y CSS) a React con componentes reutili
 ## Cómo ejecutar el proyecto localmente
 
 1. Clonar el repositorio:
-   git clone URL_DE_TU_REPO
+      git clone https://github.com/nicollecouffignal/caffe-nina-react.git
 2. Entrar a la carpeta:
    cd caffe-nina-react
 3. Instalar las dependencias:
